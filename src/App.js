@@ -19,7 +19,7 @@ function App() {
   let InstanceId_ReviewsTab = "";
 
   //Product ID
-  let ProductId = "STAMM-AN69046";
+  let ProductId = "7058010406994";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
